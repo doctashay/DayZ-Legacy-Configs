@@ -227,6 +227,9 @@ class cfgWeapons
 			"suppressorImpro",
 			"weaponBayonetAK"
 		};
+
+		gun_magazines[] = {"M_ak74_30Rnd_Black","","","","","","","","","","","","","",""};
+		gun_optics[] = {"Att_Optic_PSO1","Att_Optic_Kashtan","","","",""};
 		hiddenSelectionsTextures[]=
 		{
 			"dz\weapons\firearms\AK101\data\ak101_co.paa"
